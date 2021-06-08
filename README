@@ -1,5 +1,6 @@
 In collaboration with Jung Soo Ha and Yung Ju Rick Kim
 
+Abstract: 
 In recent years, a great majority of people have
 moved to web portals like Google for news
 consumption. The quality of portals’ news
@@ -19,7 +20,6 @@ which resulted in slight better performance;
 the number of correct answers increased, but
 only around 1 percent.
 
-Abstract: 
 Full Research Paper here: https://www.dropbox.com/s/al1u92mwutesczj/Research.pdf?dl=0
 
 1. Only Text Classification (title)
