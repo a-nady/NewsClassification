@@ -1,5 +1,26 @@
-In recent years, a great majority of people have moved to web portals like Google for news consumption. The quality of portals’ news classification plays a significant role in providing adequate information to the consumers. I explored the possibility of utilizing keyword extraction to improve a news classification task. First, I created a model using TF-IDF and cosine similarity. Then, I added a keyword extraction layer before the classification model and ran classification only based on keywords. However, discovering it did not improve the performance, I experimented with weighting TF-IDF values depending on whether or not a token was a keyword, which resulted in slight better performance; the number of correct answers increased, but only around 1 percent.
+In collaboration with Jung Soo Ha and Yung Ju Rick Kim
 
+In recent years, a great majority of people have
+moved to web portals like Google for news
+consumption. The quality of portals’ news
+classification plays a significant role in pro-
+viding adequate information to the consumers.
+For this paper, we explored the possibility of
+utilizing keyword extraction to improve a news
+classification task. First, we created a model
+using TF-IDF and cosine similarity. Then, we
+added a keyword extraction layer before the
+classification model and ran classification only
+based on keywords. However, discovering it
+did not improve the performance, we experi-
+mented with weighting TF-IDF values depend-
+ing on whether or not a token was a keyword,
+which resulted in slight better performance;
+the number of correct answers increased, but
+only around 1 percent.
+
+Abstract: 
+Full Research Paper here: https://www.dropbox.com/s/al1u92mwutesczj/Research.pdf?dl=0
 
 1. Only Text Classification (title)
 Confusion Matrix:
